@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity, Digital Forensics, and Network Architecture 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate!
-- 📫 Contact me at cheebeex@yahoo.com
+
 
 <!---
 cheebeex/cheebeex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

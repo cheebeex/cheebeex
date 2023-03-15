@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Hannah (@cheebeex)
-- 👀 I’m interested in Cybersecurity, Digital Forensics, and Network Architecture 
+- 👋 Hi, I’m Hannah
+- 👀 I’m interested in Cybersecurity, Digital Forensics, and Cryptography
 - ✨ I have a Bachelor of Science in Information Technology
 - 💞️ I’m looking to collaborate!
 

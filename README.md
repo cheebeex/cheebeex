@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hannah
-- 👀 I’m interested in Cybersecurity, Digital Forensics, and Cryptography
+- 👀 I’m interested in Cybersecurity, Digital Forensics, and Cryptology 
 - ✨ I have a Bachelor of Science in Information Technology
 - 💞️ I’m looking to collaborate!
 
